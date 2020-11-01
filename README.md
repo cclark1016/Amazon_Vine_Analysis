@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
 ## Purpose
 The purpose of this analysis is to understand if product ratings given as part of Amazon’s paid “Vine” program differ compared to ratings given by users that are not part of the paid program. 
